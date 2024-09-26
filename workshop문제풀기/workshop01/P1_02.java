@@ -1,6 +1,6 @@
 package workshop01;
 
-public class P02 {
+public class P1_02 {
 
 	public static void main(String[] args) {
 
