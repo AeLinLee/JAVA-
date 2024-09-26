@@ -17,6 +17,12 @@ public class Operator06_3항연산자 {
 		//문제 2 : n값이 5보다 크고 200보다 작으면 "AAA"를 반환하고 아니면 "BBB"를 반환해라.
 		String result = ( (n>5) && (n<200) )?"AAA":"BBB";
 		System.out.println(result);
+		
+		
+		//3항 연산자 중첩
+		//참문장 또는 거짓문장이 새로운 3항연산자가 될 수 있다.
+		int result2 = (100>200)? (100>50)?100:200  :  (100<200)?300:400 ;
+		System.out.println(result2);    //300
         
 	}
 
