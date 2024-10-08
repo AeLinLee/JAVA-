@@ -9,8 +9,8 @@
 - 연산자
 - 표준 입력
 - 문장
- 1)조건문: if, if~else문, 다중 if문, switch문
- 2)반복문: for문, while문, do~while문 
+	* 조건문: if, if~else문, 다중 if문, switch문
+	* 반복문: for문, while문, do~while문 
 - 1차원 배열 
 - 2차원 배열 ( 정방형, 비정방형)
 - 커맨드 라인 아규먼트 배열
